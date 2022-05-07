@@ -7,7 +7,7 @@ div {
   width: auto;  
   text-align: center;  
   padding: 70px;  
-  /* border: 3px solid red;   */
+  font-size: 100%;
   }  
   img {  
   max-width:50%;  
@@ -188,7 +188,7 @@ align-items: center;
     text-align: center;
     background: #13293d;
     color: #fff;
-    margin-bottom: 30%;
+    margin-bottom: auto;
   }
   
    nav {
@@ -202,7 +202,7 @@ align-items: center;
     text-decoration: none;
     text-align: center;
   }
-
+  /* center of page */
   aside {
     flex: 1;
     background-color: #15a9ff;
@@ -213,7 +213,7 @@ align-items: center;
   
  .flex-row {
     width: 100%;
-    bottom: 0;
+    /* bottom: 0; */
     padding: 200px;
     text-align: center;
     background: #3d2c13;
