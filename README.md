@@ -10,6 +10,8 @@ I am working towords a path on a new career with what I'm learning now. I used h
 
 file:///C:/Users/terra/OneDrive/Desktop/UofA-VIRT-FSF-PT-03-2022-U-LOL/02-Advanced-CSS/02-Homework/Images/02-advanced-css-homework-demo.gif
 
+Movie streaming projetc#1: https://raw.githubusercontent.com/Jeremiah-81/Portfolio/main/project%201.png
+
 ## Credit
 
 https://www.w3schools.com/cssref/tryit.asp?filename=trycss_font-weight
