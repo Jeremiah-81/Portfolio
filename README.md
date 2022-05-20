@@ -8,9 +8,8 @@ I am working towords a path on a new career with what I'm learning now. I used h
 
 ## Screenshots
 
- <img src="C:\Users\terra\OneDrive\Desktop\Portfolio1\02-advanced-css-homework-demo.gif"
- 
- <img src="http://chillyfacts.com/wp-content/uploads/2017/06/LinkedIN.gif"
+file:///C:/Users/terra/OneDrive/Desktop/UofA-VIRT-FSF-PT-03-2022-U-LOL/02-Advanced-CSS/02-Homework/Images/02-advanced-css-homework-demo.gif
+
 ## Credit
 
 https://www.w3schools.com/cssref/tryit.asp?filename=trycss_font-weight
