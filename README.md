@@ -12,6 +12,8 @@ file:///C:/Users/terra/OneDrive/Desktop/UofA-VIRT-FSF-PT-03-2022-U-LOL/02-Advanc
 
 Movie streaming projetc#1: https://raw.githubusercontent.com/Jeremiah-81/Portfolio/main/project%201.png
 
+Gripp-Trekk-Challenge project#2: https://peaceful-tundra-52535.herokuapp.com/profile
+
 ## Resume
 
 https://1drv.ms/w/s!AvMbeoeQbikugfMBHNVy-FevDki82Q?e=HlkWmt
