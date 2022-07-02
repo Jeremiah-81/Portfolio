@@ -12,6 +12,10 @@ file:///C:/Users/terra/OneDrive/Desktop/UofA-VIRT-FSF-PT-03-2022-U-LOL/02-Advanc
 
 Movie streaming projetc#1: https://raw.githubusercontent.com/Jeremiah-81/Portfolio/main/project%201.png
 
+## Resume
+
+
+
 ## Credit
 
 https://www.w3schools.com/cssref/tryit.asp?filename=trycss_font-weight
